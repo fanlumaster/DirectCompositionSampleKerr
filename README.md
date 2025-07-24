@@ -10,6 +10,10 @@ How to build and run:
 .\scripts\llaunch.ps1
 ```
 
+How to draw circles:
+
+- Ctrl + Left mouse button, and you could drag circles once you created them.
+
 ## Resources
 
 - <https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/august/windows-with-c-directcomposition-a-retained-mode-api-to-rule-them-all>
